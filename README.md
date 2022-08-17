@@ -21,7 +21,7 @@ Lista de Tarefas para organização de projetos e tarefas do dia a dia
 
 ## Como vizualizar o projeto?
 
-Disponível no Link: 
+Disponível no Link: https://tariqassis.github.io/todo-list-lista-de-tarefas/
 
 ## Imagem do TODO LIST
 
